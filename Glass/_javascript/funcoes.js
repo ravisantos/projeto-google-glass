@@ -1,4 +1,4 @@
-function mudaFoto(Foto)
-{
-    document.getElementById("icone").src = Foto;
-    }
+    function mudaFoto(Foto)
+    {
+        document.getElementById("icone").src = Foto;
+        }
